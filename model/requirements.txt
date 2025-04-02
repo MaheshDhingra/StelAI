@@ -1,0 +1,19 @@
+torch
+torchvision
+torchaudio
+
+datasets>=2.10.0   
+accelerate>=0.25.0 
+diffusers>=0.24.0  
+transformers>=4.35.0
+
+einops>=0.7.0
+tensorboard
+
+# xformers>=0.0.23
+
+av>=11.0.0         
+
+numpy 
+pandas 
+Pillow 
